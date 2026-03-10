@@ -1,0 +1,22 @@
+# Browser Bookmarks
+
+Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium.
+
+## Configuration
+
+The extension retrieves bookmarks from two sources: your browsers and their profiles. The default browser is enabled by default, while the others are disabled. You can enable them using the `Select Browsers` action (`⌘` + `⇧` + `S`). This will directly get your bookmarks.
+
+If you have multiple profiles, you can select the one you want from the enabled browsers:
+
+- ChatGPT Atlas `⌘` + `⇧` + `G`
+- Brave: `⌘` + `⇧` + `B`
+- Chrome: `⌘` + `⇧` + `C`
+- Dia: `⌘` + `⇧` + `D`
+- Edge: `⌘` + `⇧` + `E`
+- Firefox: `⌘` + `⇧` + `F`
+- Helium: `⌘` + `⇧` + `H`
+- Arc: `⌘` + `⇧` + `A`
+- Vivaldi / Vivaldi Snapshot: `⌘` + `⇧` + `V`
+- Prisma Access: `⌘` + `⇧` + `P`
+- Whale: `⌘` + `⇧` + `W`
+- Zen: `⌘` + `⇧` + `Z`

@@ -1,0 +1,11 @@
+.claude/
+node_modules/
+dist/
+data/
+.DS_Store
+*.tsbuildinfo
+preview-invoice.pdf
+preview-pdf.ts
+CLAUDE.md
+raycast-invoice-generator-scope.md
+SUBMITTING.md
